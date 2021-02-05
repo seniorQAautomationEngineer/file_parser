@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<purchaserequest>
+ <actioncode>NEW</actioncode>
+ <aff>TEST</aff>
+ <producer>TEST</producer>
+ <productclass>TESTProduct</productclass>
+ <bookingreservno>TestReservation</bookingreservno>
+ <numinsured>1</numinsured>
+ <maintfee>0</maintfee>
+ <tripcost>1200.89</tripcost>
+ <departdate>2020-10-21</departdate>
+ <returndate>2020-10-23</returndate>
+</purchaserequest>
